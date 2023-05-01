@@ -50,8 +50,8 @@
     --secondary-glow: linear-gradient(
       to bottom right,
       rgba(1, 65, 275, 0),
-      rgba(1, 65, 255, 0),
-      rgba(1, 65, 255, 0.3)
+      rgba(1, 65, 275, 0),
+      rgba(1, 65, 205, 0.3)
     );
 
  
